@@ -1,0 +1,35 @@
+body {
+  font-family: poppins, sans-serif;
+  margin: 0px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 28px;
+}
+.span {
+  color: orange;
+}
+a {
+  font-weight: 600;
+  color: white;
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 10px 30px;
+}
+.half-width {
+  margin-left: 40px;
+  width: 50%;
+  padding: 30px;
+}
+.half-width img {
+  width: 80%;
+  padding-left: 2%;
+}
+.top-banner {
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
